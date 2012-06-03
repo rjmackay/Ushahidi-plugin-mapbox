@@ -12,7 +12,8 @@ Add Mapbox base layers
 
 == Installation ==
 1. Copy the entire /mapbox/ directory into your /plugins/ directory.
-5. Activate the plugin.
+2. Activate the plugin.
+3. Sign up for a mapbox account (required by Mapbox TOS) : http://mapbox.com/plans/
 
 == Changelog ==
 0.1
