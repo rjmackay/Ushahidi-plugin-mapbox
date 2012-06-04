@@ -3,7 +3,7 @@ name: Mapbox
 website: http://www.ushahidi.com
 description: Add mapbox base layers
 version: 0.1
-requires: 2.2
+requires: 2.3
 tested up to: 2.3
 author: Robbie Mackay
 
