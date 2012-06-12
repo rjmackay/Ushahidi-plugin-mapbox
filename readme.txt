@@ -8,7 +8,7 @@ tested up to: 2.3
 author: Robbie Mackay
 
 == Description ==
-Add Mapbox base layers
+Add Mapbox base layers. Note: Mapbox TOS require that you register for an account before using this plugin. http://mapbox.com/plans/
 
 == Installation ==
 1. Copy the entire /mapbox/ directory into your /plugins/ directory.
